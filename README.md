@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning c++, unity, LUAU, Roblox Studio
 - 💞️ I’m looking to collaborate on a Game project - an action,psychological horror, about overcoming trauma.
-- 📫 How to reach me ... instagram @PrettyJaded.yt
+- 📫 How to reach me ... instagram @arius.black.studios
 
 <!---
 AriusBlackStudios/AriusBlackStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
